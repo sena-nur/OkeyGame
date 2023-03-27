@@ -1,0 +1,12 @@
+700,true,true,false
+200,true,true,false
+500,false,true,false
+1000,true,true,true
+1300,false,true,false
+1250,true,true,false
+650,false,true,false
+825,true,false,false
+390,true,false,true
+5000,true,true,true
+2900,false,true,true
+3200,false,false,true
